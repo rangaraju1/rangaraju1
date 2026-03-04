@@ -193,7 +193,7 @@ Key achievements:
 - **AWS SysOps Associate**
 - **Oracle Cloud Infrastructure Architect Associate**
 - **AI Business Strategy — Johns Hopkins University**
-- **Post Graduate Program in AI/ML — UT Austin (In Progress)**
+- **Post Graduate Program in AI/ML — University of Texas McCombs Austin **
 
 ---
 
