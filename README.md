@@ -4,7 +4,7 @@
 📍 Minneapolis, MN  
 📧 rangaraju1@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/raju-kalidindi-usa/  
-💻 GitHub: https://github.com/raju-kalidindi  
+💻 GitHub: https://github.com/rangaraju1  
 📂 AI/ML Project Portfolio: https://www.mygreatlearning.com/eportfolio/raju-kalidindi3  
 
 ---
