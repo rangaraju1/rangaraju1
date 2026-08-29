@@ -17,13 +17,14 @@ My background combines **enterprise cloud architecture, DevOps automation, and m
 
 I specialize in:
 
+- Multimodal Agentic AI Solutions for Solving Complex Business Problems
 - Artificial Intelligence & Machine Learning
 - Generative AI & LLM Applications
 - Cloud Architecture (Azure, AWS, OCI)
 - MLOps & DevOps Automation
 - Secure Enterprise Infrastructure
 
-Currently advancing my AI expertise through the **Post Graduate Program in AI/ML (PGP-AIML) at UT Austin**.
+Completed the **Post Graduate Program in AI/ML (PGP-AIML) at UT Austin**.
 
 ---
 
